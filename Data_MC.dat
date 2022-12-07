@@ -1,0 +1,55 @@
+WELCOME!! Which analysis you want to plot?
+Input your option now (and click <ENTER>):
+0 = WBosonAnalysis
+1 = ZBosonAnalysis
+2 = TTbarAnalysis
+3 = SingleTopAnalysis
+4 = WZDiBosonAnalysis
+5 = ZZDiBosonAnalysis
+6 = HWWAnalysis
+7 = HZZAnalysis
+8 = ZTauTauAnalysis
+9 = HyyAnalysis
+10 = SUSYAnalysis
+11 = ZPrimeBoostedAnalysis
+Now, choose the location of the WZDiBosonAnalysis output!
+If the location corresponds to ../Analysis/WZDiBosonAnalysis/Output_WZDiBosonAnalysis: type 0
+If you have a custom location path: type 1
+
+ ---------------------DISCLAIMER--------------------- 
+
+This Software is intended for educational use only!
+Under no circumstances does it qualify to reproduce actual ATLAS analysis results or produce publishable results! 
+
+ ---------------------------------------------------- 
+
+Analysis option found, proceeding...
+Reading list of histograms from: list_histos/HistoList_WZDiBosonAnalysis.txt 
+ 
+Analysis: WZDiBosonAnalysis, reading input from: inputfiles/Files_base.txt 
+ 
+Reading files from: ../Analysis/WZDiBosonAnalysis/Output_WZDiBosonAnalysis 
+ 
+=====processing WZDiBosonAnalysis=====
+
+
+Plotting histogram: hist_etmiss
+Yields:Data: 918,  WZ: 799.432,  ZZ,WW: 37.3288,  V+jets: 19.9128,  ttbar+stop: 15.4113,  Total pred.: 872.086
+Plotting histogram: hist_mLL
+Yields:Data: 918,  WZ: 799.431,  ZZ,WW: 37.3288,  V+jets: 19.9128,  ttbar+stop: 15.4113,  Total pred.: 872.084
+Plotting histogram: hist_mtw
+Yields:Data: 918,  WZ: 799.432,  ZZ,WW: 37.3288,  V+jets: 19.9128,  ttbar+stop: 15.4113,  Total pred.: 872.085
+Plotting histogram: hist_ptLL
+Yields:Data: 918,  WZ: 799.431,  ZZ,WW: 37.3288,  V+jets: 19.9128,  ttbar+stop: 15.4113,  Total pred.: 872.085
+Plotting histogram: hist_threeleptE
+Yields:Data: 2754,  WZ: 2398.3,  ZZ,WW: 111.986,  V+jets: 59.7385,  ttbar+stop: 46.234,  Total pred.: 2616.26
+Plotting histogram: hist_threeleptID
+Yields:Data: 2754,  WZ: 2398.3,  ZZ,WW: 111.986,  V+jets: 59.7385,  ttbar+stop: 46.234,  Total pred.: 2616.26
+Plotting histogram: hist_threeleptch
+Yields:Data: 2754,  WZ: 2398.3,  ZZ,WW: 111.987,  V+jets: 59.7385,  ttbar+stop: 46.234,  Total pred.: 2616.26
+Plotting histogram: hist_threelepteta
+Yields:Data: 2754,  WZ: 2398.29,  ZZ,WW: 111.986,  V+jets: 59.7385,  ttbar+stop: 46.234,  Total pred.: 2616.25
+Plotting histogram: hist_threeleptphi
+Yields:Data: 2754,  WZ: 2398.3,  ZZ,WW: 111.986,  V+jets: 59.7385,  ttbar+stop: 46.234,  Total pred.: 2616.26
+Plotting histogram: hist_threeleptpt
+Yields:Data: 2537,  WZ: 2226.78,  ZZ,WW: 104.085,  V+jets: 49.6836,  ttbar+stop: 38.5726,  Total pred.: 2419.12
